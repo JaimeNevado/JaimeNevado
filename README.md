@@ -1,15 +1,15 @@
-<h1 align="center">¡Hola! Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! Soy Jaime Nevado</h1>
 <p align="center">
-  <a href="[Enlace de tu sitio web o perfil de LinkedIn]">Sitio Web</a> •
-  <a href="[Enlace de tu perfil de LinkedIn]">LinkedIn</a> •
-  <a href="[Enlace de tu perfil de GitHub]">GitHub</a>
+  <a href="https://www.youtube.com/@jaimx_/videos">Canal de YouTube</a> •
+  <a href="https://www.linkedin.com/in/jaime-nevado-farf%C3%A1n-a70363231/">LinkedIn</a> •
+  <a href="https://github.com/TuUsuarioGitHub">GitHub</a>
 </p>
 
 ---
 
 ## Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado [desarrollador/programador] con experiencia en varios lenguajes de programación y tecnologías. Mi objetivo es colaborar en proyectos interesantes y desafiantes y seguir aprendiendo cada día.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en varios lenguajes de programación y tecnologías. Mi objetivo es colaborar en proyectos interesantes y desafiantes y seguir aprendiendo cada día.
 
 ### Habilidades
 
@@ -31,7 +31,7 @@
 
 ## Contacto
 
-¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mi [correo electrónico](correo@example.com) o en [LinkedIn](enlace_de_LinkedIn).
+¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mi correo electrónico: [jaimenevadof@gmail.com](mailto:jaimenevadof@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/jaime-nevado-farf%C3%A1n-a70363231/).
 
 ---
 
