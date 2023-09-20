@@ -23,7 +23,7 @@
 
 ## Proyectos Destacados
 
-- **[Proyecto 1](https://www.youtube.com/watch?v=xe2NtTf4JNg&list=PLHycP13aGn1gSE26is5lDgAMy_AkN3FpU&ab_channel=jaimx)**: Creación de un cohete de agua controlado por Arduino.
+- **[Cohete con arduino](https://www.youtube.com/watch?v=xe2NtTf4JNg&list=PLHycP13aGn1gSE26is5lDgAMy_AkN3FpU&ab_channel=jaimx)**: Cohete que usa el agua como combustible y se controla con Arduino.
 - **[Proyecto 2](enlace_al_proyecto_2)**: Breve descripción o logro destacado.
 - **[Proyecto 3](enlace_al_proyecto_3)**: Breve descripción o logro destacado.
 
