@@ -24,8 +24,7 @@
 ## Proyectos Destacados
 
 - **[Cohete con arduino](https://www.youtube.com/watch?v=xe2NtTf4JNg&list=PLHycP13aGn1gSE26is5lDgAMy_AkN3FpU&ab_channel=jaimx)**: Cohete que usa el agua como combustible y se controla con Arduino.
-- **[Proyecto 2](enlace_al_proyecto_2)**: Breve descripción o logro destacado.
-- **[Proyecto 3](enlace_al_proyecto_3)**: Breve descripción o logro destacado.
+- **[Get Next Line](https://github.com/JaimeNevado/get_next_line)**: Este proyecto en C busca la siguiente linea de un texto usando punteros, tamaños de buffer, malloc(), calloc(), free(), etc.
 
 ---
 
@@ -33,8 +32,4 @@
 
 ¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mi correo electrónico: [jaimenevadof@gmail.com](mailto:jaimenevadof@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/jaime-nevado-farf%C3%A1n-a70363231/).
 
----
 
-## Agradecimientos
-
-Gracias por visitar mi perfil de GitHub. ¡Espero poder colaborar contigo en futuros proyectos!
