@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en varios lenguajes de programación y tecnologías. Mi objetivo es colaborar en proyectos interesantes y desafiantes y seguir aprendiendo cada día.
+¡Bienvenido a mi perfil! Soy un estudiante de ingeniería del Software con experiencia en varios lenguajes de programación y tecnologías. Mi objetivo es colaborar en proyectos interesantes y desafiantes y seguir aprendiendo cada día.
 
 ### Habilidades
 
